@@ -105,24 +105,6 @@
 #myarray = %w{one two three four}
 #myarray.each {|element| print "[" + element + "]... " }
 
-#block of executable code into a variable
-#myproc = Proc.new {|animal| puts "I love #{animal}"}
-#myproc.call("pandas")
-
-#--MIND FUCK!!! WITH PROCS ONLY WHEN THE CONSTRUCTOR (NEW)
-#--IS CALLED, THE SHOW GOES TO 'SHOW', OTHERWISE, IT GOES TO HOST!!!
-#def make_show_name(show)
-#  Proc.new {|host| show + " with " + host}
-#end
-#show1 = make_show_name("Practical Cannibalism")
-#show2 = make_show_name("Cotillions in the Amazon")
-#puts show1.call("H. Annabellector")
-##→ Practical Cannibalism with H. Annabellector
-#puts show2.call("Jack Hannah")
-##→ Cotillions in the Amazon with Jack Hannah
-#puts show1.call("Kirstie Alley")
-##→ Practical Cannibalism with Kirstie Alley
-
-myproc = lambda {|x| puts "Argument: #{x}"}
-myproc.call("Texas forever!")
-#→ Argument: Texas forever!
+#block of code into a variable
+myproc = Proc.new {|animal| puts "I love #{animal}"}
+myproc.call("pandas")

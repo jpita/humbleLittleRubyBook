@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/humbleLittleRubyBook.rb" line="21" mnemonic="8" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e439dad1-69bc-46f8-9a74-f509715f837a" name="Default" comment="" />
+    <list default="true" id="e439dad1-69bc-46f8-9a74-f509715f837a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/humbleLittleRubyBook.rb" afterPath="$PROJECT_DIR$/humbleLittleRubyBook.rb" />
+    </list>
     <ignored path="humbleLittleRubyBook.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,7 +17,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/humbleLittleRubyBook@hello_world.coverage" NAME="humbleLittleRubyBook Coverage Results" MODIFIED="1393692689830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="humbleLittleRubyBook" />
+    <SUITE FILE_PATH="coverage/humbleLittleRubyBook@hello_world.coverage" NAME="humbleLittleRubyBook Coverage Results" MODIFIED="1393709808663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="humbleLittleRubyBook" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,7 +34,7 @@
       <file leaf-file-name="humbleLittleRubyBook.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/humbleLittleRubyBook.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="0" selection-start="2561" selection-end="2561" vertical-scroll-proportion="0.7226754" vertical-offset="1274" max-vertical-offset="1955">
+            <state line="111" column="27" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.45241582" vertical-offset="1578" max-vertical-offset="2261">
               <folding />
             </state>
           </provider>
@@ -254,7 +256,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1050" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32886598" sideWeight="0.49960348" order="7" side_tool="false" content_ui="tabs" />
@@ -265,8 +267,8 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33368644" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32783505" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32783505" sideWeight="0.49894068" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2556701" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2556701" sideWeight="0.49894068" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -304,7 +306,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/humbleLittleRubyBook.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="0" selection-start="2561" selection-end="2561" vertical-scroll-proportion="0.7226754" vertical-offset="1274" max-vertical-offset="1955">
+        <state line="111" column="27" selection-start="2827" selection-end="2827" vertical-scroll-proportion="0.45241582" vertical-offset="1578" max-vertical-offset="2261">
           <folding />
         </state>
       </provider>

@@ -127,6 +127,37 @@
 #puts show1.call("Kirstie Alley")
 ##→ Practical Cannibalism with Kirstie Alley
 
-myproc = lambda {|x| puts "Argument: #{x}"}
-myproc.call("Texas forever!")
+#instead of proc.new we can use lambda, same thing
+#myproc = lambda {|x| puts "Argument: #{x}"}
+#myproc.call("Texas forever!")
 #→ Argument: Texas forever!
+
+#def procnew
+#  new_proc = Proc.new { return "I got here..." }
+#  new_proc.call
+#  return "...but not here."
+#end
+#
+#def lambdaproc
+#  new_proc = lambda { return "You get here..." }
+#  new_proc.call
+#  return "And I got here!"
+#end
+#
+#puts procnew
+#puts lambdaproc
+
+#YIELD!!!
+#def yieldme
+#  print "1. Enter method. "
+#  yield
+#  print "3. Exit method."
+#end
+#yieldme { print "2. Enter block. "}
+
+puts File.class
+#→  Class
+puts File.superclass
+#→  Object
+puts Object.superclass
+#→  nil
